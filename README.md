@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at VSB College of Engineering Technical Campus, Coimbatore (2023 – 2027) | CGPA: **8.25/10**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at VSB College of Engineering Technical Campus, Coimbatore (2023 – 2027) | CGPA: **8.15/10**
 - 🧠 Skilled in **Machine Learning, Data Analytics, and Data Visualization**
 - 🔬 Presented a **Research Paper on AI/ML Applications in Renewable Energy** at a National Conference
 - 📄 Published **Indian Patent** – *Aegis AI: Intelligent Cyber Resilience Framework* (Application No. 202541034212A, May 2025)
